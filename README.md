@@ -1,10 +1,10 @@
 ```
-╔═══════════════════════════════════════════════════╗
-║  PROP FIRM CHALLENGE GUIDE 2026                  ║
-║  Everything before buying a challenge.            ║
-║  How evaluations work, what the rules mean,       ║
-║  and how to pick one.                             ║
-╚═══════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════╗
+║  PROP FIRM CHALLENGE GUIDE 2026                 ║
+║  Everything you need to know before             ║
+║  buying a challenge. How evaluations            ║
+║  work, rules, and how to pick one.              ║
+╚═════════════════════════════════════════════════╝
 ```
 
 
