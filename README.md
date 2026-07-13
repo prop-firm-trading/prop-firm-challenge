@@ -1,12 +1,10 @@
 
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   PROP FIRM CHALLENGE GUIDE 2026                                     ║
-║                                                                      ║
-║   Everything you need to know before buying a prop firm challenge.   ║
-║   How evaluations work, what the rules mean, and how to pick one.    ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════╗
+║  PROP FIRM CHALLENGE GUIDE 2026                  ║
+║  Everything before buying a challenge.            ║
+║  How evaluations work, what the rules mean,       ║
+║  and how to pick one.                             ║
+╚═══════════════════════════════════════════════════╝
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prop_Firm_Challenges-Explained-22c55e?style=for-the-badge" alt="Prop Firm Challenges Explained">
